@@ -1,7 +1,7 @@
 # User Management System (PERN Stack)
 
-    🔗 **Live Frontend:** https://your-frontend-url  
-    🔗 **Backend API:** https://your-backend-url  
+    🔗 **Live Frontend:** https://backend-intern-assessment.vercel.app  
+    🔗 **Backend API:** https://backend-intern-assessment-viij.onrender.com 
 
 ### 🔑 Test Admin Credentials
     Email: admin@test.com  
@@ -69,25 +69,30 @@ This project was developed as part of a **Backend / Full-Stack Assignment** and 
 ## 📂 Project Structure
 
 ### Backend
-
-backend
-├── src
-│   ├── controllers
-│   ├── routes
-│   ├── middleware
-│   ├── config
-└── server.js
-
+```
+backend/
+├── src/
+│   ├── controllers/
+│   ├── routes/
+│   ├── middleware/
+│   ├── config/
+│   └── server.js
+│
+├── package.json
+└── README.md
+```
 ### Frontend
-
-frontend
-└── src
-    ├── api
-    ├── components
-    ├── pages
-    └── App.jsx
-
-
+```
+frontend/
+├── src/
+│   ├── api/
+│   ├── components/
+│   ├── pages/
+│   └── App.jsx
+│
+├── package.json
+└── README.md
+```
 ---
 
 ## ⚙️ Environment Variables
