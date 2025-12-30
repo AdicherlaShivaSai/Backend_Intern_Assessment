@@ -114,7 +114,6 @@ JWT_SECRET=your_jwt_secret
 cd backend
 npm install
 npm run dev
-
 ```
 Backend will run on:
 ```
